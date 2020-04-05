@@ -3,7 +3,9 @@ import Hearder from './Componetes/Header';
 
 function App() {
   return (
-    <Hearder title ="Be The Hero"/>
+    <Hearder>
+      Be The Hero
+    </Hearder>
   );
 }
 
