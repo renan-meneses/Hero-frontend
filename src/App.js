@@ -1,8 +1,9 @@
 import React from 'react';
+import Hearder from './Componetes/Header';
 
 function App() {
   return (
-    <h1>hello word</h1>
+    <Hearder title ="Be The Hero"/>
   );
 }
 
