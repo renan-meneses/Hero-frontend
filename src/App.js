@@ -1,11 +1,10 @@
 import React from 'react';
-import Hearder from './Componetes/Header';
+import './global.css'
+import Logon from './pages/Logon';
 
 function App() {
   return (
-    <Hearder>
-      Be The Hero
-    </Hearder>
+    <Logon/>
   );
 }
 
